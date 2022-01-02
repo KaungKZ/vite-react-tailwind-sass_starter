@@ -3,7 +3,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - &nbsp;
-  ![Vite](https://user-images.githubusercontent.com/49403996/147873110-0ab213a5-446d-445a-b741-2b52811f708b.jpg)
+  ![Vite](https://user-images.githubusercontent.com/49403996/147873792-0b107314-22df-43a0-a4e7-69f4e3932fb6.jpg)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
