@@ -5,6 +5,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
 
 <br/>
 
