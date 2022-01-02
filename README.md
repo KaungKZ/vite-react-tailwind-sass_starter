@@ -12,7 +12,7 @@
 
 # ABOUT
 
-This project will provide the basic setup for a scalabe React App. It includes:- [Vite](https://vitejs.dev/) for increadibly fast and lean development, [TailwindCSS](https://tailwindcss.com/) for beautiful and easy styling and [SASS](https://sass-lang.com/) as a CSS preprocessor
+This project will provide the basic setup for a scalabe React App. It includes: [Vite](https://vitejs.dev/) for increadibly fast and lean development, [TailwindCSS (V3)](https://tailwindcss.com/) for beautiful and easy styling and [SASS](https://sass-lang.com/) as a CSS preprocessor
 
 
 <br/>
