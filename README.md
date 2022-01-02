@@ -7,6 +7,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
+  ![SASS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png)
 
 <br/>
 
