@@ -3,13 +3,13 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Vite](https://user-images.githubusercontent.com/49403996/147873110-0ab213a5-446d-445a-b741-2b52811f708b.jpg)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
 
 <br/>
+
 
 # ABOUT
 
